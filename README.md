@@ -17,6 +17,19 @@ Inspired by [OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) research
 
 ---
 
+## What makes reverse-abliterate unique
+
+| Capability | reverse-abliterate | Manual inspection | OBLITERATUS (complement) |
+|---|---|---|---|
+| **Abliteration detection** | ✅ scans metadata, weights, hooks | ❌ | Has the opposite goal |
+| **SHA-256 weight manifests** | ✅ generate + verify | ❌ | ❌ |
+| **Safety wrapper** | ✅ keyword-based refusal + system prompt leak | Manual | ❌ |
+| **Jailbreak probe prompts** | ✅ 10 known patterns | ❌ | ❌ |
+| **LoRA adapter detection** | ✅ | ❌ | ❌ |
+| **CI/CD integration** | ✅ JSON output, exit codes | ❌ | ❌ |
+
+---
+
 ## 🔍 Features
 
 ### Detection
@@ -151,8 +164,11 @@ Options:
 |---------|-------------|
 | [OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | Model abliteration toolkit (⭐ 5.7k) |
 | [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) | Jailbreak library (⭐ 19k) |
-| [MCPGuard](https://github.com/Carlos-Projects/MCPGuard) | Runtime security proxy for MCP/A2A protocols |
+| [MCPGuard](https://github.com/Carlos-Projects/mcpguard) | Runtime security proxy for MCP/A2A protocols |
+| [MCPwn](https://github.com/Carlos-Projects/mcpwn) | Offensive security testing for MCP servers |
 | [Palisade Scanner](https://github.com/Carlos-Projects/palisade-scanner) | Scan web content for prompt injection |
+| [MCPscop](https://github.com/Carlos-Projects/mcpscope) | Unified security dashboard for MCP/A2A |
+| [AgentGate](https://github.com/Carlos-Projects/agentgate) | Firewall and honeypot for AI agents |
 
 ---
 
