@@ -4,8 +4,7 @@ import json
 import tempfile
 from pathlib import Path
 
-
-from reverse_abliterate.detect import scan_directory, generate_report
+from reverse_abliterate.detect import generate_report, scan_directory
 from reverse_abliterate.harden import (
     generate_weight_manifest,
     safety_wrapper,

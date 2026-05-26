@@ -1,0 +1,32 @@
+name: Bug Report
+description: File a bug report
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What happened? What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction Steps
+      placeholder: |
+        1. Run `reverse-abliterate scan ./model/`
+        2. ...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: "Output of: `reverse-abliterate --version` (or pip show reverse-abliterate)"
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Output
+      render: shell

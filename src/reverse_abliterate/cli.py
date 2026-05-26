@@ -46,7 +46,9 @@ def scan(
             critical = sum(1 for f in findings if f["severity"] == "critical")
             high = sum(1 for f in findings if f["severity"] == "high")
             if critical or high:
-                console.print(f"\n[red]Found {critical} critical and {high} high-severity indicators.[/]")
+                console.print(
+                    f"\n[red]Found {critical} critical and {high} high-severity indicators.[/]"
+                )
             else:
                 console.print("\n[green]No critical or high-severity indicators found.[/]")
 
