@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in reverse-abliterate, please report it privately.
 
-**Do not** open a public GitHub issue. Instead, email **carlosrocha@users.noreply.github.com** or use GitHub's [private vulnerability reporting](https://github.com/Carlos-Projects/reverse-abliterate/security/advisories/new).
+**Do not** open a public GitHub issue. Instead, email **Carlos@AIAgentObservatory.org** or use GitHub's [private vulnerability reporting](https://github.com/Carlos-Projects/reverse-abliterate/security/advisories/new).
 
 Please include:
 - Description of the vulnerability

@@ -9,7 +9,7 @@ description = "Detect and reverse model abliteration; harden LLMs against safety
 readme = "README.md"
 requires-python = ">=3.11"
 license = {text = "MIT"}
-authors = [{name = "Carlos Rocha", email = "carlosrocha@users.noreply.github.com"}]
+authors = [{name = "Carlos-Projects", email = "Carlos@AIAgentObservatory.org"}]
 keywords = [
     "llm-security", "ai-safety", "model-abliteration",
     "red-team", "prompt-injection", "jailbreak",
