@@ -173,6 +173,14 @@ Options:
 
 ---
 
+## 🤝 Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines.
+
+## 🔒 Security
+
+Found a vulnerability? See [SECURITY.md](SECURITY.md).
+
 ## 📄 License
 
 MIT
