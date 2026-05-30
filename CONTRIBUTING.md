@@ -1,6 +1,27 @@
 # Contributing to reverse-abliterate
 
-Thanks for your interest in making LLM safety tools better!
+👋 **Welcome to reverse-abliterate!**
+
+Thank you for your interest in making LLM safety tools better. Whether you're adding a new detector, hardening a safety wrapper, or improving documentation — you're helping make AI systems more robust and aligned. We appreciate you!
+
+## First Time Contributor?
+
+Here are some great entry points:
+
+- Look for `good first issue` or `help wanted` labels
+- Add a new detection check in `detect.py` — the pattern is easy to follow
+- Improve test coverage or add edge cases
+- Document your findings when testing on real models
+
+We're all here to improve AI safety, and every contribution counts.
+
+## Need Help?
+
+Questions or concerns?
+
+- Open a [GitHub Issue](https://github.com/Carlos-Projects/reverse-abliterate/issues)
+- For security issues, see [SECURITY.md](SECURITY.md)
+- Be descriptive: share what you tried and what happened
 
 ## Development Setup
 
@@ -76,3 +97,7 @@ Bug reports and feature requests go to [GitHub Issues](https://github.com/Carlos
 ## Code of Conduct
 
 Be respectful, constructive, and inclusive. We're all here to improve AI safety.
+
+---
+
+💡 This project is governed by a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you agree to uphold its principles.
