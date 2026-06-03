@@ -6,6 +6,8 @@
 
 [![CI](https://github.com/Carlos-Projects/reverse-abliterate/actions/workflows/ci.yml/badge.svg)](https://github.com/Carlos-Projects/reverse-abliterate/actions/workflows/ci.yml)
 [![Docs](https://github.com/Carlos-Projects/reverse-abliterate/actions/workflows/docs.yml/badge.svg)](https://carlos-projects.github.io/reverse-abliterate/)
+[![PyPI](https://img.shields.io/pypi/v/reverse-abliterate)](https://pypi.org/project/reverse-abliterate/)
+[![Python](https://img.shields.io/pypi/pyversions/reverse-abliterate)](https://pypi.org/project/reverse-abliterate/)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)

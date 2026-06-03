@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+### Changed
+- README.md: added PyPI version and supported Python version badges
+
 ### Added
 - Initial project creation
 - `scan` command to detect abliteration artifacts
